@@ -60,9 +60,9 @@ Unordered List
 Code
 
 ```
-```
+\```
 code
-```
+\```
 ```
 
 Horizontal Rule
@@ -82,6 +82,6 @@ Link
 
 Image
 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/d/d8/Pieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_%28Winter%29_-_Google_Art_Project.jpg)
+![alt text](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg)
 
 ```![alt text](image.jpg)```
