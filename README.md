@@ -27,32 +27,61 @@
 
 ```> blockquote```
 
-[Ordered List](/basic-syntax/#ordered-lists)
+---
 
-`1. First item  
-2. Second item  
-3. Third item  
-`
+Ordered List
 
-[Unordered List](/basic-syntax/#unordered-lists)
+1. First item
+2. Second item
+3. Third item
 
-`- First item  
-- Second item  
-- Third item  
-`
+```
+1. First item
+2. Second item
+3. Third item
+```
 
-[Code](/basic-syntax/#code)
+---
 
-`` `code` ``
+Unordered List
 
-[Horizontal Rule](/basic-syntax/#horizontal-rules)
+- First item
+- Second item
+- Third item
 
-`---`
+```
+- First item
+- Second item
+- Third item
+```
 
-[Link](/basic-syntax/#links)
+---
 
-`[title](https://www.example.com)`
+Code
 
-[Image](/basic-syntax/#images-1)
+```
+```
+code
+```
+```
 
-`![alt text](image.jpg)`
+Horizontal Rule
+
+---
+
+```---```
+---
+
+Link
+
+[title](https://www.example.com)
+
+```[title](https://www.example.com)```
+
+---
+
+Image
+
+![alt text](https://upload.wikimedia.org/wikipedia/commons/d/d8/Pieter_Bruegel_the_Elder_-_Hunters_in_the_Snow_%28Winter%29_-_Google_Art_Project.jpg
+
+```![alt text](image.jpg)```
