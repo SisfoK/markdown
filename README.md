@@ -1,26 +1,31 @@
 # Tutorial Markdown
 
-Element
-
-Markdown Syntax
-
-[Heading](/basic-syntax/#headings)
-
-`# H1  
+# H1  
 ## H2  
-### H3`
+### H3
 
-[Bold](/basic-syntax/#bold)
+```
+# H1  
+## H2  
+### H3
+```
+---
 
-`**bold text**`
+** Bold **
 
-[Italic](/basic-syntax/#italic)
+```**bold text**```
 
-`*italicized text*`
+---
 
-[Blockquote](/basic-syntax/#blockquotes-1)
+*Italic*
 
-`> blockquote`
+```*italicized text*```
+
+---
+
+> Blockquote
+
+```> blockquote```
 
 [Ordered List](/basic-syntax/#ordered-lists)
 
